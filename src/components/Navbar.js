@@ -1,8 +1,8 @@
 import React from 'react';
 import {useRef} from "react";
 import "./Navbar.css";
-import logo from "/Users/amenasyed/frontend/src/images/moodFM_logo.png";
-import profile from "/Users/amenasyed/frontend/src/images/profile.png";
+import logo from "../Assets/logo_0_chill.png";
+import profile from "../images/profile.png";
 
 function Navbar() {
 

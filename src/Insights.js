@@ -1,8 +1,8 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import "./Insights.css"
-import trends from "/Users/amenasyed/frontend/src/images/mood-trends.png";
-import breakdown from "/Users/amenasyed/frontend/src/images/mood-breakdown.png";
+import trends from "./images/mood-trends.png";
+import breakdown from "./images/mood-breakdown.png";
 
 function Insights() {
     return (

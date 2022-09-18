@@ -1,9 +1,9 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import "./Home.css"
-import readroom from "/Users/amenasyed/frontend/src/images/read-room.png";
-import breakdown from "/Users/amenasyed/frontend/src/images/mood-breakdown.png";
-import chill from "/Users/amenasyed/frontend/src/images/chill.gif";
+import readroom from "./images/read-room.png";
+import breakdown from "./images/mood-breakdown.png";
+import chill from "./Assets/chill.gif";
 
 function Home() {
     return (

@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import profile from "/Users/amenasyed/frontend/src/images/profile.png";
+import profile from "./images/profile.png";
 import "./Profile.css"
 
 function Profile() {
