@@ -1,0 +1,56 @@
+:root{
+    --background: #EEEEEE;
+    --darkGrey: #667080;
+
+    --font: 'Inter', sans-serif;
+}
+
+body{
+    background-color: var(--background);
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0 20px;
+    background-color: var(--background);
+    color: var(--primary-font);
+    font-family: var(--serif);
+}
+
+
+.nav-logo{
+    margin-left: 150px;
+
+    
+}
+.nav-menu{
+    text-decoration: none;
+    margin-right: 150px;
+    display:flex;
+    align-items: center;
+}
+
+.nav-item{
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 45px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 25px;
+    background-color: #667080;
+    text-decoration: none;
+    color: white;
+    display:flex;
+    align-items: center;
+}
+
+.nav-button{
+    display:flex;
+    align-items: center;
+}
+
+.nav-profile{
+    margin-top: 20px;
+}

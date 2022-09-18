@@ -1,0 +1,26 @@
+.read{
+    display:block;
+}
+
+.home-container h1{
+    margin-left: 150px;
+}
+
+
+.row{
+    display: inline;
+    margin-left: 150px;
+
+}
+
+.row-2{
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.row img{
+    margin-top: 15px;
+    margin-right: 30px;
+    margin-left: auto;
+}
