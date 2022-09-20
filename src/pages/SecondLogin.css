@@ -1,0 +1,58 @@
+.second-login-container{
+    text-align: center;
+}
+
+.login-heading{
+    font: 'Inter', 'sans-serif';
+    color: var(--darkGrey);
+}
+
+.login-heading h1{
+    margin-bottom: 0;
+    font-size: 50px;
+}
+
+.second-login-container{
+    font-weight: 500px;
+}
+
+label{
+    color: var(--darkGrey);
+    font-weight: 500;
+}
+
+form{
+    margin-top: 20px;
+}
+
+.login-form{
+    display: block;
+    font: 'Inter', "sans-serif";
+    border: none;
+}
+
+.login-image{
+    margin-top: -100px;
+}
+
+input{
+    border-width:0;
+    width: 80%;
+    line-height: 30px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom:20px;
+}
+
+.login-box{
+    background-color: var(--lightGrey);
+    width: 30%;
+    padding: 20px;
+    border-radius: 50px;
+    margin: auto;
+
+}
+.login-box-container{
+    margin-top: 100px;
+
+}

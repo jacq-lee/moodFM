@@ -1,0 +1,13 @@
+:root{
+  --background: #EEEEEE;
+  --darkGrey: #667080;
+  --lightGrey: #EEF1F4;
+}
+
+body{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: white;
+  font: 'Inter', 'sans-serif';
+}

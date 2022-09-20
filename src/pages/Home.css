@@ -1,0 +1,48 @@
+.home-container{
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.home-content{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.home-content h1{
+    font-size: 50px;
+    color: var(--darkGrey);
+    padding-bottom: 20px;
+}
+
+.home-row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.homepage-gif{
+    width: 35%;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.read-the-room{
+    background-color: var(--lightGrey);
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 6px 0px rgba(0, 0, 0, 0.25);
+    transition: 0.3s;
+
+}
+
+.read-the-room:hover{
+    transform:scale(1.05);
+}
+
+.read-room-link{
+    text-decoration: none;
+    color: var(--darkGrey);
+}
+
+.card-title{
+    margin-top: 0;
+}

@@ -1,0 +1,32 @@
+.profile-content{
+    text-align: center;
+    color: var(--darkGrey);
+}
+
+.profile-name{
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.profile-text{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: 400;
+
+}
+
+.horizontal-rule{
+    border: 2px solid var(--lightGrey);
+}
+
+.profile-content{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.sign-out{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,65 @@
+.home-pressed-container{
+    margin-bottom: 20px;
+}
+
+.read-the-room-happy{
+    background-color: #FFF8E8;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 6px 0px rgba(0, 0, 0, 0.25);
+    transition: 0.3s;
+    margin-bottom: 40px;
+
+}
+
+.read-the-room-happy:hover{
+    transform:scale(1.05);
+    cursor: pointer;
+}
+
+.mood-breakdown-home{
+    background-color: var(--lightGrey);
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 6px 0px rgba(0, 0, 0, 0.25);
+    transition: 0.3s;
+
+}
+
+.mood-breakdown-home:hover{
+    transform:scale(1.05);
+}
+
+.bolded-text{
+    font-weight: 500;
+}
+
+.centered-card-text{
+    text-align: center;
+}
+
+.card-text{
+    padding-right: 20px;
+}
+
+.song{
+    font-size: 20px;
+}
+
+.homepage-gif{
+    padding-left: 40px;
+    height: 450px;
+    width: 450px;
+    padding-right: 40px;
+}
+
+.pie-chart{
+    display: flex;
+}
+
+.pie-text{
+    padding: 10px;
+    font-weight: 800;
+    text-align: center;
+    font-size: 24px;
+}

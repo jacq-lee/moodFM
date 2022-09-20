@@ -1,0 +1,50 @@
+.first-login-container{
+    text-align: center;
+}
+
+.first-login-container img{
+    padding-top: 100px;
+    
+}
+
+.login-button{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.button{
+    padding: 15px 45px;
+    border-radius: 30px;
+    background-color: var(--darkGrey);
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+
+}
+.first-login-container h1{
+    color: var(--darkGrey);
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom:0;
+    margin-top: 0px;
+}
+
+.first-login-container h3{
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom:0;
+    margin-top: 10px;
+}
+
+.first-login-container h3{
+    color: var(--darkGrey);
+}
+
+.first-login-container p{
+    font-size: 14px;
+    color: var(--darkGrey);
+}
+
+.linked-text{
+    color: var(--darkGrey);
+}
